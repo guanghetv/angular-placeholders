@@ -1,5 +1,6 @@
 *.sw*
 *~
 node_modules/
-dist/
-
+dist/*
+!dist/placeholders-0.0.1-SNAPSHOT.js
+!dist/placeholders-0.0.1-SNAPSHOT.min.js
